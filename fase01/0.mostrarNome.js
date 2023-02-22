@@ -1,4 +1,7 @@
 function mostrarNome() {
     console.log("Marvin")
 }
-console.log(mostrarNome)
+
+mostrarNome()
+
+// Expected output: Marvin
